@@ -2,6 +2,7 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
+  <title>Demo background</title>
   <style>
     html, body {
       height: 100%;
@@ -37,8 +38,9 @@
   </style>
 </head>
 <body>
+  <div class="content">
     <h1>Tao đẹp trai</h1>
-    <p>Cây lap</p>
+    <p>Cây lấp</p>
   </div>
 </body>
 </html>
